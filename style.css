@@ -1,3 +1,25 @@
 body {
   font-family: monospace;
+  background-color: aqua;
+  max-width: max-content;
+  margin: auto;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+h1 {
+  color: darkblue;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
 }
